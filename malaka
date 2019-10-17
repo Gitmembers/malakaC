@@ -1,0 +1,4 @@
+ // nextDouble() reads the next double from the keyboard
+        double first = reader.nextDouble();
+        double second = reader.nextDouble();
+        System.out.print("Enter an operator (+, -, *, /): ");
